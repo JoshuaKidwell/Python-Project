@@ -1,0 +1,9 @@
+a = 1
+prevA = 0
+count = 1
+while count < 8:
+	print(a)
+	temp = prevA
+	prevA = a
+	a = temp + a
+	count = count + 1

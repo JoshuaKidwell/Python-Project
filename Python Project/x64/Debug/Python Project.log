@@ -1,0 +1,4 @@
+﻿  Interface.cpp
+E:\zz!!Downloads\Python Project\Interface.cpp(97,100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\zz!!Downloads\Python Project\Interface.cpp(99,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Python Project.vcxproj -> E:\zz!!Downloads\Python Project\x64\Debug\Python Project.exe
